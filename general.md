@@ -1,0 +1,1 @@
+What is CORS? Stands for Cross-Origin Resource Sharing. It is a mechanism that uses additional HTTP headers to let a user agent gain permission to access selected resources from a server on a different origin (domain) than the site currently in use.
