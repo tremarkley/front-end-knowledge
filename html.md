@@ -28,3 +28,6 @@ Why is it a good idea to position <script>just before </body>?
 
 What is progressive rendering?
 - This is separating the HTML into various chunks. Where you might load one component first and then load another component after the initial one finishes loading.
+
+Why would you use srcset attribute on an image tag?
+- srcset is used for responsive images. In the scrset attribute you can reference multiple image files and their sizes. Then with the sizes html attribute you can define which images to load based on the viewport size
